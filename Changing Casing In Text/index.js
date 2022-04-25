@@ -1,4 +1,4 @@
-/** Changing Casing in Text so that the first character of the name is Upper Case and rest character of the name is Lower Case. **/
+/** Changing Casing in Text so that it converts the first character of the name in Upper Case and rest character of the name in Lower Case. **/
 //1 Create a variable that stores the name that user enters via prompt.
 
 var name= prompt("What is your name?");
